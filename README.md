@@ -11,6 +11,7 @@
 
 对局中输入你想要落子的点的坐标，如“i8”（不区分字母和数字的先后顺序，也不区分大小写），即代表在棋盘上i8坐标落子。其余操作遵照程序中指引即可。
 
+"WUZIQI"为编译文件，可直接运行。也可自行将其余c源文件以及头文件一起编译后运行。
 
 This program is a personal homework for the C program design of the UCAS, only for learning and battle testing, please do not plagiarize.
 
@@ -23,3 +24,5 @@ If you want to play a no-forbidden hand battle, please change the comment on lin
 There are complete Chinese comments in the code, if there is garbled characters when opened in the IDE, please select the GKB encoding in the IDE.
 
 Enter the coordinates of the point you want to fall on in the game, such as "i8" (not distinguishing the order of letters and numbers, and not case sensitive), that is, the i8 coordinate drop on the board. Follow the instructions in the procedure.
+
+"WUZIQI" is a compiled file that can be run directly. You can also compile the rest of the C source files and header file together and run them.
