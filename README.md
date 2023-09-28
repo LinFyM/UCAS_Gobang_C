@@ -13,7 +13,7 @@
 
 "WUZIQI"为编译文件，可直接运行。也可自行将其余c源文件以及头文件一起编译后运行。
 
-——————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————
 
 This program is a personal homework for the C program design of the UCAS, only for learning and battle testing, please do not plagiarize.
 
